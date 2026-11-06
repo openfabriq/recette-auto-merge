@@ -1,0 +1,15 @@
+name: Auto-merge recette
+description: Tests merge under conditions (ADR 0061) and conflict resolution (ADR 0062) on a throwaway repository.
+repository: openfabriq/recette-auto-merge
+maintainers: [eixoweb]
+model: haiku
+
+commands:
+  test: npm test
+checks: [test]
+
+limits:
+  usd_per_run: 0.5
+  usd_per_day: 3
+  minutes_per_run: 15
+  review_rounds: 2
