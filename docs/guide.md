@@ -9,3 +9,7 @@ Call `greeting("Ada")`.
 ## FAQ
 
 No question yet.
+
+## License
+
+None, it is a test.
