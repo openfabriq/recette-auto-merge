@@ -9,3 +9,7 @@ Call `greeting("Ada")`.
 ## FAQ
 
 No question yet.
+
+## Install
+
+Copy `src/greeting.js`.
