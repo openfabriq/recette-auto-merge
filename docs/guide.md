@@ -1,3 +1,3 @@
 # Guide
 
-The greeting says hello, politely.
+The greeting says hello, kindly.
