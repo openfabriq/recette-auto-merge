@@ -1,0 +1,6 @@
+{
+  "name": "recette-auto-merge",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test test/" }
+}
