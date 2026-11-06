@@ -13,3 +13,7 @@ No question yet.
 ## Install
 
 Copy `src/greeting.js`.
+
+## License
+
+None, it is a test.
