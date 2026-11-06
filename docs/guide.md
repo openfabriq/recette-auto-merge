@@ -21,3 +21,7 @@ None, it is a test.
 ## Merge queue
 
 This section went through the merge queue.
+
+## Contributing
+
+Open a pull request; the factory reviews it.
