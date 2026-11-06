@@ -25,3 +25,7 @@ This section went through the merge queue.
 ## Contributing
 
 Open a pull request; the factory reviews it.
+
+## Changelog
+
+The greeting learned new words.
