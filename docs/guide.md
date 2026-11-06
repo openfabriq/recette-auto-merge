@@ -1,3 +1,3 @@
 # Guide
 
-The greeting says hello, warmly.
+The greeting says hello, gently.
