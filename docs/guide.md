@@ -17,3 +17,7 @@ Copy `src/greeting.js`.
 ## License
 
 None, it is a test.
+
+## Merge queue
+
+This section went through the merge queue.
